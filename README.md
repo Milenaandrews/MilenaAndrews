@@ -6,14 +6,11 @@
 <h3 align="center">MERN DEVELOPER🌟.</h3>
 <h3 align="center">Visit my Website Here.</h3>
 <h4 align="center">https://portafolio-pearl-omega.vercel.app/</h4>
-
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MilenaAndrews&label=Profile%20views&color=0e75b6&style=flat](https://portafolio-pearl-omega.vercel.app/"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=MilenaAndrews&label=Profile%20views&color=0e75b6&style=flat](https://portafolio-pearl-omega.vercel.app/"
     alt="profile" /> 
   </p>
-
-<br>
 
 <br>
 
