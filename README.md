@@ -15,7 +15,11 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif-milena" /></p>
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="milena" /></p>
+
+<br>
 
 
 - 🌱 I’m currently studying Computer Engineering at Universidad del Desarrollo, and always learning new Web Development and other programming languages.
