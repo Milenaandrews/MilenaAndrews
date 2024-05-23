@@ -17,14 +17,14 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="milena" /></p>
+<p><img align="right" src="https://res.cloudinary.com/dzppqa6a9/image/upload/v1716436248/_ced2899c-8cee-40dc-bf73-5ed41bb9de0c_tcpeog.jpg" alt="milena" width="300px" height="300px" /></p>
 
 <br>
 
 
 - 🌱 I’m currently studying Computer Engineering at Universidad del Desarrollo, and always learning new Web Development and other programming languages.
 
-- - 🔭: I’m currently working as a freelance in small web projects.
+- 🔭: I’m currently working as a freelance in small web projects.
 
 - 📫 How to reach me **mileandrews@gmail.com**
 
@@ -44,6 +44,8 @@
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+## Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <br>
 
 
