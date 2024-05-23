@@ -12,11 +12,7 @@
     alt="profile" /> 
   </p>
 
-<br>
-
 <p><img align="right" src="https://res.cloudinary.com/dzppqa6a9/image/upload/v1716436248/_ced2899c-8cee-40dc-bf73-5ed41bb9de0c_tcpeog.jpg" alt="milena" width="300px" height="300px" /></p>
-
-<br>
 
 
 - 🌱 I’m currently studying Computer Engineering at Universidad del Desarrollo, and always learning new Web Development and other programming languages.
@@ -27,6 +23,7 @@
 
 - ⚡ Fun fact : Also im a ski instructor 🎿.
 
+<br>
 <br>
 
 # 💻 Tech Stack:
