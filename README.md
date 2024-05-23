@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mileandrews@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Also im a ski instructor 🎿.
 
 <br>
 
