@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Milena Andrews</h1>
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Milena Andrews</h1>
 <h3 align="center">MERN DEVELOPER🌟.</h3>
+<h3 align="center">Visit my Website Here.</h3>
+<h4 align="center">https://portafolio-pearl-omega.vercel.app/</h4>
 
 <br>
 
@@ -9,7 +15,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif-milena" /></p>
 
 
 - 🌱 I’m currently studying Computer Engineering at Universidad del Desarrollo, and also learning Web Development and other programming languages. 
