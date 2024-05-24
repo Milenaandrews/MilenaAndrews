@@ -18,6 +18,8 @@
 - 🌱 I’m currently studying Computer Engineering at Universidad del Desarrollo, and always learning new Web Development and other programming languages.
 
 - 🔭: I’m currently working as a freelance in small web projects.
+  
+- 😎: I’m currently learning AWS cloud services.
 
 - 📫 How to reach me **mileandrews@gmail.com**
 
