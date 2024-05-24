@@ -12,7 +12,7 @@
     alt="profile" /> 
   </p>
 
-<p><img align="right" src="https://res.cloudinary.com/dzppqa6a9/image/upload/v1716436248/_ced2899c-8cee-40dc-bf73-5ed41bb9de0c_tcpeog.jpg" alt="milena" width="300px" height="300px" /></p>
+<p><img align="right" padding-button="40px" src="https://res.cloudinary.com/dzppqa6a9/image/upload/v1716436248/_ced2899c-8cee-40dc-bf73-5ed41bb9de0c_tcpeog.jpg" alt="milena" width="300px" height="300px" /></p>
 
 
 - 🌱 I’m currently studying Computer Engineering at Universidad del Desarrollo, and always learning new Web Development and other programming languages.
