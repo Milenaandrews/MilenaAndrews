@@ -8,7 +8,7 @@
 <h4 align="center">https://portafolio-pearl-omega.vercel.app/</h4>
 <br>
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=MilenaAndrews&label=Profile%20views&color=0e75b6&style=flat](https://portafolio-pearl-omega.vercel.app/"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=Milenaandrews&label=Profile%20views&color=0e75b6&style=flat](https://portafolio-pearl-omega.vercel.app/"
     alt="profile" /> 
   </p>
 
@@ -48,13 +48,13 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MilenaAndrews&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Milenaandrews&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Milena" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MilenaAndrews&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Milenaandrews&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Milena" /></p>
 
 <br>
